@@ -56,9 +56,9 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 <br>
 <div align=center>
 <!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Aryan2079&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aakashrana007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aakashrana7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrana007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrana7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -68,7 +68,7 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 <h3 align="center"> 🔥 Streaks and Consistency 🔥 </h3>
 <br/>
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=javascript-dark&border_radius=6.5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashrana7&theme=javascript-dark&border_radius=6.5" alt="GitHub Streak" /></a>
 </div>
 <br/>
 
@@ -78,7 +78,7 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 <br>
 <div class="trophy-container">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=aakashrana007&theme=onedark" alt="GitHub Trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aakashrana7&theme=onedark" alt="GitHub Trophy">
     </a>
 </div>
 <hr/>
@@ -92,6 +92,6 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 
 
 <!---
-aakashrana007/aakashrana007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aakashrana7/aakashrana7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
